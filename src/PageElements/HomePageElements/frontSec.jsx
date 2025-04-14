@@ -11,7 +11,7 @@ export default function FrontSec() {
         height: "100vh",
         alignItems: "center",
         display: "flex",
-        zIndex:"-1"
+        // zIndex:"-1"
       }}>
         <div className="container">
           <div className="textSec" style={{
