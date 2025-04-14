@@ -3,41 +3,8 @@ import Carousel from '../PopularStocksElements/carousel';
 
 
 export default function PopularStocks() {
-  // const carouselData = [
-  //   {
-  //     icon: null,
-  //     name: "adaro ace adaro energy indone",
-  //     rp: 2400,
-  //     profitLoss: -123
-  //   },
-  //   {
-  //     icon: null,
-  //     name: "aces ace hardware indone policy",
-  //     rp: 810,
-  //     profitLoss: +125
-  //   },
-  //   {
-  //     icon: null,
-  //     name: "arto goto bank jago tbkcoc abcedef ",
-  //     rp: 310,
-  //     profitLoss: +429
-  //   },
-  //   {
-  //     icon: null,
-  //     name: "arto goto bank jago tbkcoc abcedef ",
-  //     rp: 310,
-  //     profitLoss: +429
-  //   },
+  
 
-  // ]
-
-  var settings = {
-    dots: false,
-    infinite: false,
-    speed: 500,
-    slidesToShow: 1,
-    slidesToScroll: 1,
-  };
   return (
     <>
       <div className="section">
