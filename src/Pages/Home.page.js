@@ -18,8 +18,8 @@ export default function HomePage() {
 
       <FrontSec/>
       <PopularStocks/>
-      {/* <AboutUsSec/>
-      <BenefitsSec/>
+      <AboutUsSec/>
+      {/* <BenefitsSec/>
       <TopPricingSec/>
       <HowItWorkSec/>
       <PopularStocks/>

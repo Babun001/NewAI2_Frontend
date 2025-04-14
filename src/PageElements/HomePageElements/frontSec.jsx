@@ -50,6 +50,7 @@ export default function FrontSec() {
                 border:"2px solid white",
                 borderRadius: "20px",
                 fontSize: "1rem",
+                cursor:"pointer"
               }}>
                 How it works
               </button>
@@ -61,6 +62,7 @@ export default function FrontSec() {
                 display: "flex",
                 justifyContent: "center",
                 alignItems: "center",
+                cursor:"pointer"
               }}>
                 Get App now <span className='ms-1'></span><Icons.Download style={{
                   fontSize: "1.2rem",
